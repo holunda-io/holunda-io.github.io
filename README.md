@@ -1,40 +1,21 @@
 ![holunda](./holunda.png "Logo")
 
+## Welcome to holunda.io
 
-## Welcome to GitHub Pages
+This GitHub organization collects repositories for free and open source libraries related to Camunda process engine produced by engineers of [Holisticon AG](https://holisticon.de). 
 
-You can use the [editor on GitHub](https://github.com/holunda-io/holunda-io.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here are the most important:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Polyflow Framework](https://github.com/holunda-io/camunda-bpm-taskpool)
+* [Polyflow Examples](https://github.com/holunda-io/polyflow-examples)
+* [Camunda BPM Data](https://github.com/holunda-io/camunda-bpm-data)
+* [Camunda BPM Correlate](https://github.com/holunda-io/camunda-bpm-correlate)
+* [Camunda BPM API](https://github.com/holunda-io/camunda-bpm-api)
+* [Camunda BPM JGiven](https://github.com/holunda-io/camunda-bpm-jgiven)
+* [BPM Connectors Camunda 8](https://github.com/holunda-io/bpm-ai-connectors-camunda-8)
+* [BPM AI](https://github.com/holunda-io/bpm-ai)
+* [Camunda BPM Decision](https://github.com/holunda-io/camunda-decision)
+* [Camunda BPM Autologin](https://github.com/holunda-io/camunda-platform-7-autologin)
 
-### Markdown
+If you are interested in more libraries, please check the [list of all repositories ](https://github.com/orgs/holunda-io/repositories)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/holunda-io/holunda-io.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
